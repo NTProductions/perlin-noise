@@ -1,0 +1,4 @@
+^G:\FREELANCER PROJECTS\PLUGINS\LEARNING\AFTEREFFECTSSDK 17.1.2\EXAMPLES\NT PRODUCTIONS\COLOUR SCHEME GENERATOR\COLOURSCHEMEGENERATORPIPL.R
+cl /I "G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Colour Scheme Generator\Win\..\..\..\Headers" /EP ".."\\"ColourSchemeGeneratorPiPL.r" > "x64\Debug\"\\"ColourSchemeGeneratorPiPL.rr"
+"G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Colour Scheme Generator\Win\..\..\..\Resources\PiPLTool" "x64\Debug\ColourSchemeGeneratorPiPL.rr" "x64\Debug\ColourSchemeGeneratorPiPL.rrc"
+cl /D "MSWindows" /EP x64\Debug\ColourSchemeGeneratorPiPL.rrc >               "G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Colour Scheme Generator\Win\"\\"ColourSchemeGeneratorPiPL".rc

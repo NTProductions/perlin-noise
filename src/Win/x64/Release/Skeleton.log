@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ColourSchemeGenerator.vcxproj, Thermals.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Perlin.cpp
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(80,20): warning C4244: '=': conversion from 'PF_FpLong' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(81,22): warning C4244: '=': conversion from 'PF_FpLong' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(82,21): warning C4244: '=': conversion from 'PF_FpLong' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(95,67): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(96,54): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(97,53): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(263,16): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(264,18): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(265,17): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(266,18): warning C4305: '=': truncation from 'double' to 'PF_FpShort'
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(286,10): warning C4101: 'src_rect': unreferenced local variable
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(525,13): warning C4101: 'item': unreferenced local variable
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(493,14): warning C4101: 'channel_param': unreferenced local variable
+G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Perlin.cpp(524,9): warning C4101: 'thisTime': unreferenced local variable
+  Perlin_Strings.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NT Productions\Perlin.aex'

@@ -1,0 +1,4 @@
+^D:\FREELANCER PROJECTS\PLUGINS\LEARNING\AFTEREFFECTSSDK 17.1.2\EXAMPLES\NT PRODUCTIONS\DAY4NITE\DAY4NITEPIPL.R
+cl /I "D:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Day4Nite\Win\..\..\..\Headers" /EP ".."\\"Day4NitePiPL.r" > "x64\Debug\"\\"Day4NitePiPL.rr"
+"D:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Day4Nite\Win\..\..\..\Resources\PiPLTool" "x64\Debug\Day4NitePiPL.rr" "x64\Debug\Day4NitePiPL.rrc"
+cl /D "MSWindows" /EP x64\Debug\Day4NitePiPL.rrc >               "D:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Day4Nite\Win\"\\"Day4NitePiPL".rc

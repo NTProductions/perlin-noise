@@ -1,0 +1,4 @@
+^G:\FREELANCER PROJECTS\PLUGINS\LEARNING\AFTEREFFECTSSDK\EXAMPLES\NT PRODUCTIONS\BASIC PERLIN NOISE\PERLINPIPL.R
+cl /I "G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Win\..\..\..\Headers" /EP ".."\\"PerlinPiPL.r" > "x64\Release\"\\"PerlinPiPL.rr"
+"G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Win\..\..\..\Resources\PiPLTool" "x64\Release\PerlinPiPL.rr" "x64\Release\PerlinPiPL.rrc"
+cl /D "MSWindows" /EP x64\Release\PerlinPiPL.rrc >               "G:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK\Examples\NT Productions\Basic Perlin Noise\Win\"\\"PerlinPiPL".rc
